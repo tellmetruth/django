@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+가상환경 및 프로젝트구현.txt
+정리.txt
